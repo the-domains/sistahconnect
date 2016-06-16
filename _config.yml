@@ -1,0 +1,28 @@
+name: sistahconnect
+favicon: null
+layout_spectrum: 0.497405547183007
+typography_spectrum: 0.11291742394678295
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9950049698818475
+  lightness: 0.7930175752844661
+  saturation: 0.32564212335273623
+  rhythmicContrast: 0.4680270126555115
+purpose: []
